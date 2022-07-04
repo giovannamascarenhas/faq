@@ -1,0 +1,11 @@
+.show-content .active {
+    display: block;
+}
+
+.faqElement {
+    display: none;
+}
+
+.active-btn {
+    display: block;
+}
